@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293046887176",
+    "project_id": "login-dan-register-ba297",
+    "storage_bucket": "login-dan-register-ba297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293046887176:android:e6f1f3f211f96d482ac2bd",
+        "android_client_info": {
+          "package_name": "com.millenialzdev.logindanregistervolleymysql"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_AlJd6fQe5lIqps0mQtOeY8YEjKOkGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
